@@ -15,7 +15,7 @@ projects:
       - key: N8N_BASIC_AUTH_PASSWORD
         sync: true
       - key: N8N_BASIC_AUTH_USER
-        sync: bilton
+        sync: admin
       - key: N8N_BASIC_AUTH_ACTIVE
         sync: true
       region: oregon
